@@ -38,8 +38,8 @@
 .right-column
 {
     height: 200px;
-    margin-top: 65px;
-}
+    margin-top: 64px}
+
 button[type="submit"] {
     padding: 10px 15px;
     background-color: blue;
